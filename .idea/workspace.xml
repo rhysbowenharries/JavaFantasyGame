@@ -2,38 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d876fc3-5377-4f9b-b992-ff1c3bec9e8e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Fighters/Barbarian.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Fighters/Dwarf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Wizard/FirefighterSpell.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Wizard/Wizard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/creatures/Creatures.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/creatures/PigOfJustice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/enemy/stuff/Ballrog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/enemy/stuff/ChickEnemy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/enemy/stuff/RoboBoss.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/enemy/stuff/TheBlackKnight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/interfaces/IEnchantable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/interfaces/ISpellable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/weapons/WaterBalloon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/BallrogTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/CaveBattleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/DwarfTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/PigOfJusticeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/RoboBossTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Fighters/Fighter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Fighters/Fighter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/enemy/stuff/Enemy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/enemy/stuff/Enemy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/enemy/stuff/WeakEnemy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/enemy/stuff/WeakEnemy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/room/stuff/BattleArena.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/room/stuff/BattleArena.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/weapons/Pillow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/weapons/Pillow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/weapons/Sword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/weapons/Sword.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/weapons/Weapon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/weapons/Weapon.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/BattleArenaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BattleArenaTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Fighters/Fighter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Fighters/Fighter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/enemy/stuff/Enemy.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/enemy/stuff/Enemy.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/weapons/Pillow.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/weapons/Pillow.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/weapons/Sword.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/weapons/Sword.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/weapons/Weapon.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/weapons/Weapon.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/WizzardTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/WizzardTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -45,11 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/WizzardTest.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/room/stuff/ChickenRoom.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="48" column="22" selection-start-line="48" selection-start-column="22" selection-end-line="48" selection-end-column="22" />
+            <state relative-caret-position="450">
+              <caret line="55" column="7" lean-forward="true" selection-start-line="42" selection-end-line="55" selection-end-column="7" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -58,96 +28,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Wizard/Wizard.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/room/stuff/BattleArena.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="349">
-              <caret line="32" column="39" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Wizard/ISpell.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Wizard/FirefighterSpell.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Fighters/Barbarian.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#145#146#0" expanded="true" />
-                <element signature="e#194#195#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/weapons/Weapon.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="506">
-              <caret line="29" column="23" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Fighters/Fighter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="417">
-              <caret line="72" column="41" selection-start-line="72" selection-start-column="41" selection-end-line="72" selection-end-column="41" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1655#1656#0" expanded="true" />
-                <element signature="e#1702#1703#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/weapons/Pillow.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
-              <folding>
-                <element signature="e#101#102#0" expanded="true" />
-                <element signature="e#149#150#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/creatures/PigOfJustice.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="11" column="41" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="41" />
+            <state relative-caret-position="150">
+              <caret line="38" selection-start-line="38" selection-end-line="38" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -158,8 +42,101 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/enemy/stuff/Enemy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="334">
-              <caret line="40" column="41" selection-start-line="40" selection-start-column="41" selection-end-line="40" selection-end-column="41" />
+            <state relative-caret-position="392">
+              <caret line="38" selection-start-line="38" selection-end-line="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#489#490#0" expanded="true" />
+                <element signature="e#523#524#0" expanded="true" />
+                <element signature="e#553#554#0" expanded="true" />
+                <element signature="e#582#583#0" expanded="true" />
+                <element signature="e#682#683#0" expanded="true" />
+                <element signature="e#713#714#0" expanded="true" />
+                <element signature="e#754#755#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Fighters/Fighter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="172">
+              <caret line="46" selection-start-line="46" selection-end-line="46" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#761#762#0" expanded="true" />
+                <element signature="e#795#796#0" expanded="true" />
+                <element signature="e#1485#1486#0" expanded="true" />
+                <element signature="e#1522#1523#0" expanded="true" />
+                <element signature="e#1655#1656#0" expanded="true" />
+                <element signature="e#1703#1704#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/weapons/Weapon.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="326">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#414#415#0" expanded="true" />
+                <element signature="e#446#447#0" expanded="true" />
+                <element signature="e#480#481#0" expanded="true" />
+                <element signature="e#519#520#0" expanded="true" />
+                <element signature="e#588#589#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/BattleArenaTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="134" selection-start-line="134" selection-end-line="134" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#3012#3013#0" expanded="true" />
+                <element signature="e#3038#3039#0" expanded="true" />
+                <element signature="e#3139#3140#0" expanded="true" />
+                <element signature="e#3165#3166#0" expanded="true" />
+                <element signature="e#3230#3231#0" expanded="true" />
+                <element signature="e#3256#3257#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/KnightTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="319">
+              <caret line="52" column="42" selection-start-line="52" selection-start-column="42" selection-end-line="52" selection-end-column="42" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/enemy/stuff/TheBlackKnight.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/room/stuff/KnightRoom.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="58" column="24" lean-forward="true" selection-start-line="58" selection-start-column="24" selection-end-line="58" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -202,7 +179,6 @@
         <option value="$PROJECT_DIR$/src/main/java/Fighters/Barbarian.java" />
         <option value="$PROJECT_DIR$/src/main/java/Fighters/Dwarf.java" />
         <option value="$PROJECT_DIR$/src/main/java/enemy/stuff/ChickEnemy.java" />
-        <option value="$PROJECT_DIR$/src/test/java/BattleArenaTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/PigOfJusticeTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/DwarfTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/BallrogTest.java" />
@@ -230,6 +206,11 @@
         <option value="$PROJECT_DIR$/src/main/java/weapons/Weapon.java" />
         <option value="$PROJECT_DIR$/src/main/java/Fighters/Fighter.java" />
         <option value="$PROJECT_DIR$/src/test/java/WizzardTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/room/stuff/chickenRoom.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Runner/Runner.java" />
+        <option value="$PROJECT_DIR$/src/main/java/room/stuff/ChickenRoom.java" />
+        <option value="$PROJECT_DIR$/src/test/java/BattleArenaTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/room/stuff/KnightRoom.java" />
       </list>
     </option>
   </component>
@@ -369,7 +350,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561305938505" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561320513132" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -393,50 +374,52 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.WizzardTest.fireElementSpellNoWOrkOnDwarf">
-    <configuration name="All in game" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.BattleArenaTest.blackKnightVKnight">
+    <configuration name="BattleArenaTest.blackKnightVBarbarian" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="game" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="TEST_OBJECT" value="package" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RoboBossTest.WaterballoonVRoboBoss" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="game" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RoboBossTest" />
-      <option name="METHOD_NAME" value="WaterballoonVRoboBoss" />
+      <option name="MAIN_CLASS_NAME" value="BattleArenaTest" />
+      <option name="METHOD_NAME" value="blackKnightVBarbarian" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WizzardTest.canAddToSpells" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BattleArenaTest.blackKnightVDwarf" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="game" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="WizzardTest" />
-      <option name="METHOD_NAME" value="canAddToSpells" />
+      <option name="MAIN_CLASS_NAME" value="BattleArenaTest" />
+      <option name="METHOD_NAME" value="blackKnightVDwarf" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WizzardTest.canCastSpell" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BattleArenaTest.blackKnightVKnight" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="game" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="WizzardTest" />
-      <option name="METHOD_NAME" value="canCastSpell" />
+      <option name="MAIN_CLASS_NAME" value="BattleArenaTest" />
+      <option name="METHOD_NAME" value="blackKnightVKnight" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WizzardTest.fireElementSpellNoWOrkOnDwarf" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BattleArenaTest.canBattleBarbarian" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="game" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="WizzardTest" />
-      <option name="METHOD_NAME" value="fireElementSpellNoWOrkOnDwarf" />
+      <option name="MAIN_CLASS_NAME" value="BattleArenaTest" />
+      <option name="METHOD_NAME" value="canBattleBarbarian" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BattleArenaTest.canBattleKNight" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="game" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BattleArenaTest" />
+      <option name="METHOD_NAME" value="canBattleKNight" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -444,11 +427,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.WizzardTest.fireElementSpellNoWOrkOnDwarf" />
-        <item itemvalue="JUnit.WizzardTest.canCastSpell" />
-        <item itemvalue="JUnit.All in game" />
-        <item itemvalue="JUnit.WizzardTest.canAddToSpells" />
-        <item itemvalue="JUnit.RoboBossTest.WaterballoonVRoboBoss" />
+        <item itemvalue="JUnit.BattleArenaTest.blackKnightVKnight" />
+        <item itemvalue="JUnit.BattleArenaTest.blackKnightVBarbarian" />
+        <item itemvalue="JUnit.BattleArenaTest.blackKnightVDwarf" />
+        <item itemvalue="JUnit.BattleArenaTest.canBattleBarbarian" />
+        <item itemvalue="JUnit.BattleArenaTest.canBattleKNight" />
       </list>
     </recent_temporary>
   </component>
@@ -466,35 +449,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="WizzardTest_canCastSpell - 2019.06.23 at 16h 07m 27s.xml">
-      <configuration name="WizzardTest.canCastSpell" configurationId="JUnit" />
+    <history-entry file="BattleArenaTest_blackKnightVDwarf - 2019.06.23 at 20h 52m 59s.xml">
+      <configuration name="BattleArenaTest.blackKnightVDwarf" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="WizzardTest_canCastSpell - 2019.06.23 at 16h 07m 32s.xml">
-      <configuration name="WizzardTest.canCastSpell" configurationId="JUnit" />
+    <history-entry file="BattleArenaTest_blackKnightVBarbarian - 2019.06.23 at 20h 53m 49s.xml">
+      <configuration name="BattleArenaTest.blackKnightVBarbarian" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="All_in_game - 2019.06.23 at 16h 52m 07s.xml">
-      <configuration name="All in game" configurationId="JUnit" />
+    <history-entry file="BattleArenaTest_blackKnightVBarbarian - 2019.06.23 at 20h 54m 26s.xml">
+      <configuration name="BattleArenaTest.blackKnightVBarbarian" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="WizzardTest_canCastSpell - 2019.06.23 at 16h 52m 25s.xml">
-      <configuration name="WizzardTest.canCastSpell" configurationId="JUnit" />
+    <history-entry file="BattleArenaTest_blackKnightVKnight - 2019.06.23 at 20h 55m 19s.xml">
+      <configuration name="BattleArenaTest.blackKnightVKnight" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="All_in_game - 2019.06.23 at 16h 52m 33s.xml">
-      <configuration name="All in game" configurationId="JUnit" />
+    <history-entry file="BattleArenaTest_blackKnightVKnight - 2019.06.23 at 20h 55m 42s.xml">
+      <configuration name="BattleArenaTest.blackKnightVKnight" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="WizzardTest_canCastSpell - 2019.06.23 at 16h 54m 53s.xml">
-      <configuration name="WizzardTest.canCastSpell" configurationId="JUnit" />
+    <history-entry file="BattleArenaTest_blackKnightVKnight - 2019.06.23 at 20h 56m 29s.xml">
+      <configuration name="BattleArenaTest.blackKnightVKnight" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="WizzardTest_canCastSpell - 2019.06.23 at 16h 55m 10s.xml">
-      <configuration name="WizzardTest.canCastSpell" configurationId="JUnit" />
+    <history-entry file="BattleArenaTest_blackKnightVKnight - 2019.06.23 at 20h 59m 31s.xml">
+      <configuration name="BattleArenaTest.blackKnightVKnight" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="WizzardTest_fireElementSpellNoWOrkOnDwarf - 2019.06.23 at 17h 03m 45s.xml">
-      <configuration name="WizzardTest.fireElementSpellNoWOrkOnDwarf" configurationId="JUnit" />
+    <history-entry file="BattleArenaTest_blackKnightVKnight - 2019.06.23 at 21h 01m 49s.xml">
+      <configuration name="BattleArenaTest.blackKnightVKnight" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="WizzardTest_fireElementSpellNoWOrkOnDwarf - 2019.06.23 at 17h 04m 11s.xml">
-      <configuration name="WizzardTest.fireElementSpellNoWOrkOnDwarf" configurationId="JUnit" />
+    <history-entry file="BattleArenaTest_blackKnightVKnight - 2019.06.23 at 21h 03m 52s.xml">
+      <configuration name="BattleArenaTest.blackKnightVKnight" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="WizzardTest_fireElementSpellNoWOrkOnDwarf - 2019.06.23 at 17h 04m 29s.xml">
-      <configuration name="WizzardTest.fireElementSpellNoWOrkOnDwarf" configurationId="JUnit" />
+    <history-entry file="BattleArenaTest_blackKnightVKnight - 2019.06.23 at 21h 08m 26s.xml">
+      <configuration name="BattleArenaTest.blackKnightVKnight" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -514,8 +497,8 @@
       <window_info anchor="bottom" id="Messages" weight="0.32891566" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32891566" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -557,6 +540,24 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
     </layout-to-restore>
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/BattleArenaTest.java</url>
+          <line>134</line>
+          <properties />
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/room/stuff/KnightRoom.java</url>
+          <line>58</line>
+          <properties />
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
@@ -596,17 +597,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/enemy/stuff/TheBlackKnight.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding>
-            <element signature="e#109#110#0" expanded="true" />
-            <element signature="e#176#177#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/enemy/stuff/WeakEnemy.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
@@ -632,30 +622,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/KnightTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="52" column="42" selection-start-line="52" selection-start-column="42" selection-end-line="52" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/PigOfJusticeTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="312">
           <caret line="33" column="42" selection-start-line="33" selection-start-column="42" selection-end-line="33" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Fighters/Knight.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -676,24 +646,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/ParentRunner.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-643">
-          <caret line="177" selection-start-line="177" selection-end-line="177" />
-          <folding>
-            <element signature="e#6484#6648#0" expanded="true" />
-            <element signature="e#6647#6648#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/DwarfTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="312">
@@ -701,25 +653,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/BattleArenaTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" column="24" lean-forward="true" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1231#1232#0" expanded="true" />
-            <element signature="e#1301#1302#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/model/FrameworkMethod.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
         </state>
       </provider>
     </entry>
@@ -745,30 +678,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/room/stuff/BattleArena.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/RoboBossTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
           <caret line="72" selection-start-line="72" selection-end-line="72" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Fighters/Dwarf.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -801,17 +714,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
           <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/enemy/stuff/ChickEnemy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
-          <folding>
-            <element signature="e#112#113#0" expanded="true" />
-            <element signature="e#160#161#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -859,10 +761,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/enemy/stuff/Enemy.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Wizard/ISpell.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="40" column="41" selection-start-line="40" selection-start-column="41" selection-end-line="40" selection-end-column="41" />
+        <state relative-caret-position="154">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Wizard/Wizard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="446">
+          <caret line="32" column="39" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Runner/Runner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+          <folding>
+            <element signature="e#143#144#0" expanded="true" />
+            <element signature="e#161#162#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Wizard/FirefighterSpell.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/WizzardTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="45" column="36" selection-start-line="45" selection-start-column="36" selection-end-line="45" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -880,39 +820,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/weapons/Weapon.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/enemy/stuff/ChickEnemy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="29" column="23" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
+        <state relative-caret-position="132">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
           <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Wizard/Wizard.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="349">
-          <caret line="32" column="39" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Wizard/ISpell.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Wizard/FirefighterSpell.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#112#113#0" expanded="true" />
+            <element signature="e#160#161#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -929,22 +843,199 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Fighters/Fighter.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Fighters/Dwarf.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="417">
-          <caret line="72" column="41" selection-start-line="72" selection-start-column="41" selection-end-line="72" selection-end-column="41" />
+        <state relative-caret-position="132">
+          <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1655#1656#0" expanded="true" />
-            <element signature="e#1702#1703#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/WizzardTest.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="48" column="22" selection-start-line="48" selection-start-column="22" selection-end-line="48" selection-end-column="22" />
+        <state relative-caret-position="264">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runner/Result.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="148" selection-start-line="148" selection-end-line="148" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runner/notification/RunNotifier.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="143" selection-start-line="143" selection-end-line="143" />
+          <folding>
+            <element signature="e#0#5324#0" expanded="true" />
+            <element signature="e#3647#3830#0" expanded="true" />
+            <element signature="e#3829#3830#0" expanded="true" />
+            <element signature="e#4308#4309#0" expanded="true" />
+            <element signature="e#4364#4365#0" expanded="true" />
+            <element signature="e#4424#4425#0" expanded="true" />
+            <element signature="e#4488#4489#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/EachTestNotifier.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+          <folding>
+            <element signature="e#1555#1556#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/ParentRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="205" selection-start-line="205" selection-end-line="205" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/statements/RunBefores.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/statements/InvokeMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Fighters/Knight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/room/stuff/ChickenRoom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="55" column="7" lean-forward="true" selection-start-line="42" selection-end-line="55" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/enemy/stuff/TheBlackKnight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/KnightTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="52" column="42" selection-start-line="52" selection-start-column="42" selection-end-line="52" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/model/FrameworkMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/enemy/stuff/Enemy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#489#490#0" expanded="true" />
+            <element signature="e#523#524#0" expanded="true" />
+            <element signature="e#553#554#0" expanded="true" />
+            <element signature="e#582#583#0" expanded="true" />
+            <element signature="e#682#683#0" expanded="true" />
+            <element signature="e#713#714#0" expanded="true" />
+            <element signature="e#754#755#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/BattleArenaTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="134" selection-start-line="134" selection-end-line="134" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3012#3013#0" expanded="true" />
+            <element signature="e#3038#3039#0" expanded="true" />
+            <element signature="e#3139#3140#0" expanded="true" />
+            <element signature="e#3165#3166#0" expanded="true" />
+            <element signature="e#3230#3231#0" expanded="true" />
+            <element signature="e#3256#3257#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/weapons/Weapon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#414#415#0" expanded="true" />
+            <element signature="e#446#447#0" expanded="true" />
+            <element signature="e#480#481#0" expanded="true" />
+            <element signature="e#519#520#0" expanded="true" />
+            <element signature="e#588#589#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Fighters/Fighter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#761#762#0" expanded="true" />
+            <element signature="e#795#796#0" expanded="true" />
+            <element signature="e#1485#1486#0" expanded="true" />
+            <element signature="e#1522#1523#0" expanded="true" />
+            <element signature="e#1655#1656#0" expanded="true" />
+            <element signature="e#1703#1704#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/room/stuff/BattleArena.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/room/stuff/KnightRoom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="58" column="24" lean-forward="true" selection-start-line="58" selection-start-column="24" selection-end-line="58" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

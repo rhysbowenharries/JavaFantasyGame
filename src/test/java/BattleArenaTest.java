@@ -3,6 +3,8 @@ import enemy.stuff.*;
 import org.junit.Before;
 import org.junit.Test;
 import room.stuff.BattleArena;
+import room.stuff.ChickenRoom;
+import room.stuff.KnightRoom;
 import weapons.*;
 
 
@@ -19,17 +21,22 @@ public class BattleArenaTest {
     Barbarian barbarian;
     ChickEnemy chickEnemy;
     Dwarf dwarf;
+    ChickenRoom chickenRoom;
+    KnightRoom knightRoom;
 
     @Before
     public void before(){
         pillow = new Pillow();
         sword = new Sword();
         weakEnemey = new WeakEnemy();
+        dwarf = new Dwarf(pillow);
         knight = new Knight(pillow);
         battleArena = new BattleArena(weakEnemey, knight);
         theBlackKnight = new TheBlackKnight();
         barbarian = new Barbarian(pillow);
         chickEnemy = new ChickEnemy();
+        chickenRoom = new ChickenRoom();
+        knightRoom = new KnightRoom();
     }
 
     @Test
@@ -95,5 +102,37 @@ public class BattleArenaTest {
         dwarf = new Dwarf(pillow);
         battleArena = new BattleArena(chickEnemy, dwarf);
         assertEquals("You are defeated. GAME OVER", battleArena.roundOfFighting());
+    }
+
+    @Test
+    public void canBattleDwarf(){
+        chickenRoom.battle(dwarf);
+    }
+
+    @Test
+    public void canBattleKNight(){
+        chickenRoom.battle(knight);
+    }
+
+    @Test
+    public void canBattleBarbarian(){
+        chickenRoom.battle(barbarian);
+    }
+
+    @Test
+    public void blackKnightVDwarf(){
+        knightRoom.battle(dwarf);
+        knightRoom.battle(dwarf);
+    }
+
+    @Test
+    public void blackKnightVBarbarian(){
+        knightRoom.battle(barbarian);
+        knightRoom.battle(barbarian);
+    }
+    @Test
+    public void blackKnightVKnight() {
+        knightRoom.battle(knight);
+        knightRoom.battle(knight);
     }
 }

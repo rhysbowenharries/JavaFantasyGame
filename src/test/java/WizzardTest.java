@@ -43,7 +43,7 @@ public class WizzardTest {
     }
 
     @Test
-    public void fireElementSpellNoWOrkOnDwarf(){
+    public void fireElementSpellNoWorkOnDwarf(){
         wizard.addSpells(firefighterSpell);
         wizard.castSpell(firefighterSpell, dwarf);
         assertEquals(8, barbarian.damageToEnemyCalculator());
