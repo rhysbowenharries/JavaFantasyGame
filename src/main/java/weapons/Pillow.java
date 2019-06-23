@@ -4,6 +4,6 @@ import elements.Element;
 
 public class Pillow extends Weapon {
     public Pillow() {
-        super(1, Element.NONE);
+        super(1, Element.NONE, "Pillow");
     }
 }

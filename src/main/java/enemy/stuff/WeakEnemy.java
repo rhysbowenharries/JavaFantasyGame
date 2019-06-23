@@ -2,9 +2,9 @@ package enemy.stuff;
 
 import elements.Element;
 
-public class ChickEnemey extends Enemy{
+public class WeakEnemy extends Enemy{
 
-    public ChickEnemey() {
+    public WeakEnemy() {
         super(1, 4, Element.EARTH, "Any attack");
     }
 }

@@ -1,8 +1,9 @@
 package enemy.stuff;
 
 import elements.Element;
+import interfaces.IEnchantable;
 
-public abstract class Enemy {
+public abstract class Enemy implements IEnchantable {
 
     private int attackPower, health;
     private Element element;
@@ -35,5 +36,9 @@ public abstract class Enemy {
 
     public void takeDamage(int damage){
         this.health -= damage;
+    }
+
+    public void enchant(int enchantPower) {
+
     }
 }
